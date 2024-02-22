@@ -1,5 +1,5 @@
---- browser/components/extensions/parent/ext-tabs.js	2024-02-18 19:40:51.139956753 -0600
-+++ browser/components/extensions/parent/ext-tabs.js.modified	2024-02-18 20:02:32.281071191 -0600
+--- firefox-123.0/browser/components/extensions/parent/ext-tabs.js	2024-02-21 06:39:28.000000000 -0600
++++ firefox-123.0/browser/components/extensions/parent/ext-tabs.js.modified	2024-02-18 20:02:32.281071191 -0600
 @@ -15,7 +15,7 @@
    SessionStore: "resource:///modules/sessionstore/SessionStore.sys.mjs",
  });
